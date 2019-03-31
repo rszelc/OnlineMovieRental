@@ -1,0 +1,79 @@
+body
+{
+	background-color: #000000;
+	font-family: 'Source Code Pro', monospace;
+}
+
+#pojemnik
+{
+	width: 1240px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#slider
+{
+	width: 1240px;
+	text-align: center;
+	font-size:50px;
+	min-height: 135px;
+}
+.slide
+{
+	width: 246.5px;
+	height:141.5px;
+	float: left;
+	border: 3px solid #000000;
+}
+.slide:hover
+{
+	border: 3px solid white;
+	cursor: pointer;
+}
+.thumbnail img {
+    max-height: 150px;
+	float: left;
+	border-radius:5px;
+	border: 5px solid white;
+	background-color: white;
+}
+.thumbnail2 img {
+    max-height: 350px;
+	float: left;
+}
+.caption:hover
+{
+	cursor: pointer;
+}
+.col-sm-9
+{
+	border-radius:5px;
+	border: 5px solid white;
+	background-color: white;
+}
+.caption2
+{
+	min-height: 350px;
+	border-radius:5px;
+	border: 5px solid white;
+	background-color: white;
+}
+.rate
+{
+	float: right;
+}
+.price
+{
+	float: right;
+}
+.button
+{
+	float: right;
+	margin-left: 10px;
+}
+.descripton
+{
+	min-height: 150px;
+}
+
+	
+
